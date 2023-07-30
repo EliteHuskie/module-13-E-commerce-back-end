@@ -1,4 +1,4 @@
-// Import Router and Product, Category, Ta and ProductTag
+// Import Router and Product, Category, Tag and ProductTag
 const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
