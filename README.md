@@ -24,6 +24,10 @@ E-commerce backend application using database and API calls.
 
 Application can be utilized via API calls to create, update and delete categories, products and tags from the database.
 
+![E-Commerce Backend Application](./images/e-commerce-backend-demo.gif)
+
+Demo of application: https://drive.google.com/file/d/1XepYU0FFZon_sf7sLVU0Gmv_VonOlb16/view
+
 ## Installation
 
 1. Clone the Repository
